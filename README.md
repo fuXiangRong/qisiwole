@@ -1,6 +1,7 @@
 # 气死我了,为什么导不出方法 - -
 
-> A Vue.js project
+> src 下面有个tool.js
+> App.vue 里面有引用 然后报错了
 
 ## Build Setup
 
